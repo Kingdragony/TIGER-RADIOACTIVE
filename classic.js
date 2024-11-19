@@ -1029,7 +1029,7 @@ let messg = `
 ©𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴 `
 
 global.logo = "https://telegra.ph/file/8ac8289f695113fd799b4.jpg"
-global.vidmenu = "https://telegra.ph/file/cc872e19bc191d8fea29c.mp4"
+global.vidmenu = "https://i.imgur.com/uWf0LOQ.mp4"
 if(menutype === "v1") {
         let buttonMessage = {
         image: { url: global.logo },
@@ -3117,7 +3117,7 @@ case 'ping': {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝚃ⁱᵍᵉʳ 𝚁ᵃᵈⁱᵒᵃᶜᵗⁱᵛᵉ 𝙱ᵘᵍᵇᵒᵗ ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*⫹⫺яα∂ιοαϲτινє⫹⫺* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
